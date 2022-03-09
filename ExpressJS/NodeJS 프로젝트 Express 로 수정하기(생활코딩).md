@@ -9,3 +9,6 @@
 
 # Route Parameters
 * /:parameter
+
+# ExpressJS redirect
+* response.redirect('path');
