@@ -5,4 +5,4 @@ C 언어 공부
 * 종료일 : 
 * Reference : https://www.youtube.com/watch?v=q6fPjQAzll8
 
-* 진행사항 : 07/28 5강까지 https://youtu.be/q6fPjQAzll8?t=12185
+* 진행사항 : 08/02 6강까지 https://youtu.be/q6fPjQAzll8?t=16054
