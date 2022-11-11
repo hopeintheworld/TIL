@@ -7,7 +7,7 @@ C 언어 공부
     1. https://www.youtube.com/watch?v=q6fPjQAzll8 (20221107 종료)
     2. http://www.tcpschool.com/c/intro
 
-* 진행사항 : 진행중
+* 진행사항 : 진행중(http://www.tcpschool.com/c/c_array_oneDimensional 여기서부터 시작.)
 
 --------------
 
